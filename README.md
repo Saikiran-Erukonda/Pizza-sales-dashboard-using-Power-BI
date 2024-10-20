@@ -584,8 +584,8 @@ plt.show()
 5. **Selling pattern of the week**:  
    - Most of the orders are received on Friday,Thursday,Saturday of the week
 
-6. **Receiving Orders Behavior**:  
-   - Most orders received In the evening time of the day
+6. **Receiving Orders Behavior based on time()Evening ,Af**:  
+   - Most orders received In the **Evening** time of the day
 
 7. **Receiving Orders Behavior based on Size**:  
    - Most orders received **L** size ,**M** size, **S** size
