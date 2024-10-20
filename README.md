@@ -9,6 +9,7 @@ The working video Link is here https://youtu.be/QhAN13yV-r8?si=WPtd2hkf4nFBIOkz
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on [`Pizza sales dataset`](https://github.com/Saikiran-Erukonda/Pizza-sales-dashboard-using-Power-BI/tree/main/pizza%20sales%20dataset) to uncover trends and patterns in Customer Order preferences. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
 
+  -  [`pizza_sales_descriptive_analysis.ipynb`](https://github.com/Saikiran-Erukonda/Pizza-sales-dashboard-using-Power-BI/blob/main/pizza_sales_descriptive_analysis.ipynb)
 ---
 
 ## Objective
@@ -470,7 +471,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/f4028573-15cf-4796-8de3-834cb51d8925)
 
 4. Top 20 selling pizzas
-```
+```python
 import seaborn as sns
 import matplotlib.pyplot as plt
 
